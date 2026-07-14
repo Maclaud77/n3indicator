@@ -10,6 +10,23 @@ Plugin para GLPI 11.0.x que identifica visualmente los tickets derivados a sopor
 - **Colores dinámicos** — cada grupo N3 puede tener su propio color identificador
 - **Activar/desactivar** grupos sin eliminar la configuración
 
+## Capturas
+
+### Bandeja de tickets
+![Bandeja de tickets](docs/bandeja_ticket_N3.jpg)
+
+### Banner dentro del ticket — Ciberseguridad SSMSO
+![Banner Ciberseguridad](docs/interior_ticket_N3_ciber.jpg)
+
+### Banner dentro del ticket — Infraestructura SSMSO
+![Banner Infraestructura](docs/interior_ticket_N3_infra.jpg)
+
+### Banner dentro del ticket — Redes y Comunicaciones SSMSO
+![Banner Redes](docs/interior_ticket_N3_red.jpg)
+
+### Página de configuración
+![Configuración de grupos y colores](docs/pag_config_N3.jpg)
+
 ## Requisitos
 
 | Componente | Versión |
