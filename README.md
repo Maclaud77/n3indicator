@@ -68,4 +68,4 @@ Desarrollado para el **SSMSO (Servicio de Salud Metropolitano Sur Oriente)** com
 
 ## Autor
 
-**SSMSO - URCIT** — [@Maclaud77](https://github.com/Maclaud77)
+**Claudio Valdes G.** — [@Maclaud77](https://github.com/Maclaud77)
