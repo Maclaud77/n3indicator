@@ -1,0 +1,39 @@
+<root>
+    <name>N3 Indicator</name>
+    <key>n3indicator</key>
+    <state>stable</state>
+    <description>
+        <short>
+            <en>Visually identifies tickets escalated to N3 support groups with colored badges and banners.</en>
+            <es>Identifica visualmente tickets derivados a grupos de soporte N3 con badges y banners de color.</es>
+        </short>
+        <long>
+            <en>N3 Indicator is a GLPI plugin that visually identifies tickets assigned to Level 3 (N3) support groups. Features: colored N3 badge in ticket list, visual banner inside the ticket, configuration page to define N3 groups and assign individual colors, dynamic colors per group, enable/disable groups without losing configuration.</en>
+            <es>N3 Indicator es un plugin para GLPI que identifica visualmente los tickets asignados a grupos de soporte de Nivel 3 (N3). Características: badge N3 de color en el listado de tickets, banner visual dentro del ticket, página de configuración para definir grupos N3 y asignar colores individuales, colores dinámicos por grupo, activar/desactivar grupos sin perder la configuración.</es>
+        </long>
+    </description>
+    <homepage>https://github.com/Maclaud77/n3indicator</homepage>
+    <download>https://github.com/Maclaud77/n3indicator/releases/download/v1.0.0/n3indicator_v1.0.0.zip</download>
+    <issues>https://github.com/Maclaud77/n3indicator/issues</issues>
+    <readme>https://github.com/Maclaud77/n3indicator/blob/main/README.md</readme>
+    <changelog>https://github.com/Maclaud77/n3indicator/blob/main/CHANGELOG.md</changelog>
+    <authors>
+        <author>Claudio Valdes G.</author>
+    </authors>
+    <versions>
+        <version>
+            <num>1.0.0</num>
+            <compatibility>~11.0</compatibility>
+            <download_url>https://github.com/Maclaud77/n3indicator/releases/download/v1.0.0/n3indicator_v1.0.0.zip</download_url>
+        </version>
+    </versions>
+    <tags>
+        <tag>ticket</tag>
+        <tag>support</tag>
+        <tag>n3</tag>
+        <tag>escalation</tag>
+        <tag>visual</tag>
+        <tag>helpdesk</tag>
+    </tags>
+    <license>GPLv2+</license>
+</root>
