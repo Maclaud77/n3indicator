@@ -2,6 +2,10 @@
     <name>N3 Indicator</name>
     <key>n3indicator</key>
     <state>stable</state>
+    <langs>
+        <lang>en</lang>
+        <lang>es</lang>
+    </langs>
     <description>
         <short>
             <en>Visually identifies tickets escalated to N3 support groups with colored badges and banners.</en>
