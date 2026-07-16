@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
     <name>N3 Indicator</name>
     <key>n3indicator</key>
     <state>stable</state>
-    <langs>
-        <lang>en</lang>
-        <lang>es</lang>
-    </langs>
+    <logo>https://raw.githubusercontent.com/Maclaud77/n3indicator/main/pics/logo.png</logo>
     <description>
         <short>
             <en>Visually identifies tickets escalated to N3 support groups with colored badges and banners.</en>
@@ -17,10 +15,9 @@
         </long>
     </description>
     <homepage>https://github.com/Maclaud77/n3indicator</homepage>
-    <download>https://github.com/Maclaud77/n3indicator/releases/download/v1.0.0/n3indicator_v1.0.0.zip</download>
+    <download>https://github.com/Maclaud77/n3indicator/releases</download>
     <issues>https://github.com/Maclaud77/n3indicator/issues</issues>
-    <readme>https://github.com/Maclaud77/n3indicator/blob/main/README.md</readme>
-    <changelog>https://github.com/Maclaud77/n3indicator/blob/main/CHANGELOG.md</changelog>
+    <readme>https://raw.githubusercontent.com/Maclaud77/n3indicator/main/README.md</readme>
     <authors>
         <author>Claudio Valdes G.</author>
     </authors>
@@ -31,13 +28,5 @@
             <download_url>https://github.com/Maclaud77/n3indicator/releases/download/v1.0.0/n3indicator_v1.0.0.zip</download_url>
         </version>
     </versions>
-    <tags>
-        <tag>ticket</tag>
-        <tag>support</tag>
-        <tag>n3</tag>
-        <tag>escalation</tag>
-        <tag>visual</tag>
-        <tag>helpdesk</tag>
-    </tags>
     <license>GPLv2+</license>
 </root>
