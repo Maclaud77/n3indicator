@@ -3,6 +3,7 @@
     <name>N3 Indicator</name>
     <key>n3indicator</key>
     <state>stable</state>
+    <logo>https://raw.githubusercontent.com/Maclaud77/n3indicator/main/pics/logo_n3.png</logo>
     <description>
         <short>
             <en>Visually identifies tickets escalated to N3 support groups with colored badges and banners.</en>
@@ -17,6 +18,7 @@
     <download>https://github.com/Maclaud77/n3indicator/releases</download>
     <issues>https://github.com/Maclaud77/n3indicator/issues</issues>
     <readme>https://raw.githubusercontent.com/Maclaud77/n3indicator/main/README.md</readme>
+    <changelog>https://raw.githubusercontent.com/Maclaud77/n3indicator/main/CHANGELOG.md</changelog>
     <authors>
         <author>Claudio Valdes G.</author>
     </authors>
