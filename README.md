@@ -56,7 +56,9 @@ Plugin para GLPI 11.0.x que identifica visualmente los tickets derivados a sopor
 
 ## Contexto
 
-Desarrollado para el **una entidad pública** como solución para identificar tickets escalados áreas de tercer nivel (N3). El flujo consiste en derivar tickets mediante **"Promocionar a Solicitud"** de GLPI, creando un ticket hijo asignado al grupo N3.
+Este plugin complementa el flujo nativo de escalamiento de GLPI mediante la funcionalidad "Promocionar a Solicitud". Cuando un ticket requiere la intervención de un equipo de soporte de tercer nivel (N3), GLPI genera un ticket hijo vinculado al ticket original y lo asigna al grupo correspondiente.
+
+El plugin identifica visualmente estos tickets escalados, facilitando su seguimiento, gestión y trazabilidad, sin modificar el comportamiento nativo de GLPI ni el proceso estándar de creación y asignación de tickets.
 
 ## Estructura
 
@@ -69,7 +71,6 @@ n3indicator/
 ├── js/n3indicator.js
 ├── css/n3indicator.css
 └── locales/es_ES.php
-
 ## Licencia
 
 [GPLv2+](LICENSE)
