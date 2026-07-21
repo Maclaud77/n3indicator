@@ -56,11 +56,18 @@ Plugin para GLPI 11.0.x que identifica visualmente los tickets derivados a sopor
 
 ## Contexto
 
-Desarrollado para el **SSMSO (Servicio de Salud Metropolitano Sur Oriente)** como solución para identificar tickets escalados al equipo URCIT. El flujo consiste en derivar tickets mediante **"Promocionar a Solicitud"** de GLPI, creando un ticket hijo asignado al grupo N3.
+Desarrollado para el **una entidad pública** como solución para identificar tickets escalados áreas de tercer nivel (N3). El flujo consiste en derivar tickets mediante **"Promocionar a Solicitud"** de GLPI, creando un ticket hijo asignado al grupo N3.
 
 ## Estructura
-
-
+n3indicator/
+├── setup.php
+├── hook.php
+├── front/config.php
+├── inc/ticket.class.php
+├── inc/config.class.php
+├── js/n3indicator.js
+├── css/n3indicator.css
+└── locales/es_ES.php
 
 ## Licencia
 
@@ -68,4 +75,4 @@ Desarrollado para el **SSMSO (Servicio de Salud Metropolitano Sur Oriente)** com
 
 ## Autor
 
-**Claudio Valdes G.** — [@Maclaud77](https://github.com/Maclaud77)
+**SSMSO - URCIT** — [@Maclaud77](https://github.com/Maclaud77)
